@@ -7,8 +7,10 @@
         <div id="top"></div>
         <div id="bottom"></div>
         <b-navbar-item id="fontnavbar" class="title is-2">
-          Milligram
+          Anyone Can Code Awaits!
         </b-navbar-item>
+        <b-navbar-item id="fontnavbar" class="title is-2" style="color: Darkgreen"> 
+          </b-navbar-item>
       </template>
     </b-navbar>
     <div class="container">
